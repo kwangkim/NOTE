@@ -1,5 +1,10 @@
 From https://github.com/petehunt/webpack-howto
 
+### How to update package.json
+
+https://github.com/tjunnone/npm-check-updates
+
+
 # webpack-howto
 
 ## Goal of this guide
